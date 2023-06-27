@@ -1,11 +1,12 @@
 {
-  "name": "flowbite-react",
-  "version": "0.5.0",
+  "name": "flowbite-react-provision",
+  "version": "0.5.1",
   "description": "Official React components built for Flowbite and Tailwind CSS",
   "keywords": [
     "design-system",
     "flowbite",
     "flowbite-react",
+    "flowbite-react-provision",
     "react",
     "tailwind",
     "tailwindcss",
@@ -22,7 +23,7 @@
   "types": "./lib/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/themesberg/flowbite-react"
+    "url": "https://github.com/michael-provision/flowbite-react"
   },
   "scripts": {
     "build": "next build",
